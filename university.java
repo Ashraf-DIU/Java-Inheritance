@@ -1,8 +1,7 @@
 public class university {
     public static void main(String[] args) {
-        Daffodil diu = new Daffodil();
-        Department dept = new Department();
-        dept.display();
+        Daffodil diu = new Department();
+        diu.display();
     }
 }
 
