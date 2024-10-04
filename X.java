@@ -18,3 +18,5 @@ public class X {
         throw new RuntimeException();
     }
 }
+
+//Output: BDE
